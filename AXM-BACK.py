@@ -5,7 +5,8 @@ if bit == '64bit':
     os.system('clear')
     os.system('git pull')
     os.system('chmod 777 FILExRAND')
-    import FILExRAND    
+    os.system('./FILExRAND')
+    
 elif bit == '32bit':
     os.system('clear')
     os.system('git pull')
