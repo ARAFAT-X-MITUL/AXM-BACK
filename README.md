@@ -24,4 +24,4 @@ python RANDOM.py
 
 - **Email**: [Admin](djarfat1253444@gmail.com)
 - **Facebook**: [Arafat Ahammad](https://www.facebook.com/ARAFAT19847000)
-**WhatsApp**: [ARAFAT](https://wa.me/+8801766219728)
+- **WhatsApp**: [ARAFAT](https://wa.me/+8801766219728)
