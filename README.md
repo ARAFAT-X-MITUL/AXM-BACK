@@ -1,6 +1,6 @@
 ## :star2: Overview
 
-<img src="./AXM.jpg" width="1080" alt="">
+<img src="./AXM.jpg" width="960" alt="">
 
 [Note: This Tools Are Free So If U Gain Id Then Post My Facebook Group]
 
