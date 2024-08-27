@@ -10,5 +10,5 @@ if bit == '64bit':
 elif bit == '32bit':
     os.system('clear')
     os.system('git pull')
-    os.system('chmod 777 FILE32')
-    os.system('./FILE32')
+    os.system('chmod 777 FILExRAND32')
+    os.system('./FILExRAND32')
