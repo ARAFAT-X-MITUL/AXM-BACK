@@ -3,6 +3,7 @@ import os, sys, platform,time
 bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
+    os.system('xdg-open https://www.facebook.com/ARAFAT19847000');sleep(2)
     os.system('git pull')
     os.system('chmod 777 FILEX')
     os.system('./FILEX')
