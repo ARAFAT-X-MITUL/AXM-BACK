@@ -4,7 +4,7 @@ bit = platform.architecture()[0]
 if bit == '64bit':
     os.system('clear')
     os.system('xdg-open https://chat.whatsapp.com/IIFAd4VrnBk2XJZrGs2oxw');time.sleep(2)
-    os.system('xdg-open https://www.facebook.com/ARAFAT19847000');time.sleep(2)
+   # os.system('xdg-open https://www.facebook.com/ARAFAT19847000');time.sleep(2)
     os.system('git pull')
     os.system('chmod 777 FILEX')
     os.system('./FILEX')
