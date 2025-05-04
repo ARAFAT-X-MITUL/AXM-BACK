@@ -25,7 +25,7 @@ rm -rf AXM-BACK
 git clone --depth=1 https://github.com/ARAFAT-X-MITUL/AXM-BACK
 cd AXM-BACK
 chmod 777 *
-python AXM-BACK.py
+./FILEX
 ```
 
 ## :telephone_receiver: Contact Information
